@@ -21,9 +21,10 @@ This project implements a header bidding system using [Prebid.js](https://prebid
 ### 1. Prebid.js Integration
 1. **Include Prebid.js in your project:**
    Download or link to the Prebid.js library in your HTML file.
+   Already incliuded in this repo
 
    ```html
-   <script src="https://cdn.jsdelivr.net/npm/prebid.js@latest"></script>
+   <script src="scripts/prebid9.26.0.js"></script>
    ```
 
 2. **Configure Ad Units:**
